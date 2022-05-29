@@ -575,4 +575,18 @@ COL1
 Wire Wire Line
 	3850 1350 3850 1700
 Connection ~ 3850 1700
+Text GLabel 4550 3900 2    50   Input ~ 0
+ROW0
+Text GLabel 4550 2600 2    50   Input ~ 0
+ROW1
+Text GLabel 4550 2500 2    50   Input ~ 0
+COL0
+Text GLabel 4550 2400 2    50   Input ~ 0
+COL1
+Wire Wire Line
+	3950 5300 3850 5300
+Connection ~ 3850 5300
+Wire Wire Line
+	3950 1700 4050 1700
+Connection ~ 3950 1700
 $EndSCHEMATC
